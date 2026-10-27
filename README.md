@@ -1,1 +1,2 @@
-# dashboard
+# Dashboard de control de clima
+# Lo que se busca con este dashboard es tener la capacidad de tener cierto control del clima actual en una ciudad y ver como estos datos varian dependiendo de distintos parámetros.
